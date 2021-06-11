@@ -95,6 +95,7 @@ class Scientists extends Component {
 			allScientists,
 		} = this.state;
 
+		console.log("Hello");
 		let filtered = allScientists;
 
 		if (nameSearchQuery) {
