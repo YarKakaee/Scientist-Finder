@@ -1,0 +1,52 @@
+.clickable {
+	cursor: pointer;
+}
+
+.clickable:hover {
+	background-color: #f0f0f0;
+}
+
+.table_heading {
+	font-size: 18px;
+	text-align: left;
+}
+
+.heading_1 {
+	width: 175px;
+}
+
+.heading_2 {
+	width: 400px;
+}
+
+.heading_3 {
+	width: 5px;
+}
+
+.heading_4 {
+	width: 5px;
+}
+
+.heading_5 {
+	width: 80px;
+}
+
+.heading_6 {
+	width: 78px;
+}
+
+.heading_7 {
+	width: 100px;
+}
+
+.heading_8 {
+	width: 220px;
+}
+
+.heading_9 {
+	width: 170px;
+}
+
+.heading_10 {
+	width: 200px;
+}

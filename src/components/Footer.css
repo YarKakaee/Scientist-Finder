@@ -1,0 +1,15 @@
+.footer_section {
+	padding: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background: #ffffff;
+	height: 80px;
+}
+
+.footer_section p {
+	color: #1d252a;
+	font-size: 20px;
+	font-weight: bolder;
+	text-align: center;
+}
